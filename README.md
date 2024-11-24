@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 </p>
 
-### Backend side : PearFlower2021-mypage, Recruiting Site, [graduation project](https://github.com/Capstone03-GoldenGlobe/BE)
+### Backend side : PearFlower2021-mypage, Recruiting Site, [fitness center management](https://github.com/hyunihs/DBProject2022),[graduation project](https://github.com/Capstone03-GoldenGlobe/BE)
 
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
